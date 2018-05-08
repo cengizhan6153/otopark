@@ -1,0 +1,20 @@
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.exe.config
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.exe
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.pdb
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.Properties.Resources.resources
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csproj.GenerateResource.Cache
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.exe
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.pdb
+C:\Users\Cengizhan K\source\repos\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.Form1.resources
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.exe.config
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.exe
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\bin\Debug\otoparkÖdevi.pdb
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csprojResolveAssemblyReference.cache
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.Form1.resources
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.Properties.Resources.resources
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csproj.GenerateResource.Cache
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.exe
+C:\Users\Cengizhan K\Desktop\ödev 2\otoparkÖdevi\otoparkÖdevi\obj\Debug\otoparkÖdevi.pdb
